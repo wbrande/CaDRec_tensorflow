@@ -15,7 +15,6 @@ export PYTHONPATH=$PYTHONPATH:/home/{username}/.local/lib/python3.11/site-packag
 
 ### Note
 * Configures are given by Constants.py and Main.py
-* If you have any problem, please feel free to contact me at kaysenn@163.com.
 
 ### Dependencies
 	pip install -r requirement.txt
